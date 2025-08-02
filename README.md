@@ -22,6 +22,7 @@ Tools: Seaborn, Matplotlib, Jupyter Notebooks
 
 📬 How to Reach Me
 Email: mia.l.carter04@gmail.com
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mialcarter)
 
 Check out my projects below!
