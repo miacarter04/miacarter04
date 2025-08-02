@@ -14,7 +14,9 @@ Project I've worked on!:
 Airbnb Review Rating Prediction
 - Built and evaluated a Random Forest model to predict Airbnb review scores (1-5) using listing data
 Conducted feature engineering, handled missing data, and applied one-hot encoding to improve model performance
- 
+
+More:
+
 - 🧠 Exploring: NLP, explainable AI, and creative tech  
 - 🧰 Skills: Python, C++, Scikit-learn, Pandas, Arduino  
 - 💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/mialcarter)
