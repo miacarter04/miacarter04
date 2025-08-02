@@ -9,6 +9,7 @@ I'm especially passionate about applying AI to real-world challenges, particular
 🛠️ Tech Stack
 
 Coding Languages: Python, C++
+
 Data Analysis/ Machine Learning: Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebooks, scikit-learn
 
 📊 Featured Project: Airbnb Review Rating Prediction
