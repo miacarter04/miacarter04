@@ -18,6 +18,6 @@ Data Analysis/ Machine Learning: Pandas, NumPy, Seaborn, Matplotlib, Jupyter Not
 
 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mialcarter)
-, Let's connect!
+, let's connect!
 
 Check out my projects below!
