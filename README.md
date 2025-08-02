@@ -1,4 +1,4 @@
-# Hi, I'm Mia 👋
+# Welcome, I'm Mia! 👋
 
 👩‍💻 About Me
 
