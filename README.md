@@ -10,6 +10,7 @@ Coding Languages: Python, C++
 Data Analysis/ Machine Learning: Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebooks, scikit-learn
 
 Project I've worked on!:
+
 Airbnb Review Rating Prediction
 - Built and evaluated a Random Forest model to predict Airbnb review scores (1-5) using listing data
 Conducted feature engineering, handled missing data, and applied one-hot encoding to improve model performance
