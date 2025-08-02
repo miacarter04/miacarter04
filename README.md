@@ -20,8 +20,8 @@ Tools: Seaborn, Matplotlib, Jupyter Notebooks
 - Built and evaluated a Random Forest model to predict Airbnb review scores (1-5) using listing data
 - Conducted feature engineering, handled missing data, and applied one-hot encoding to improve model performance
 
-🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/mialcarter)
-, let's connect!
+📬 How to Reach Me
+Email: mia.l.carter04@gmail.com
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/mialcarter)
 
 Check out my projects below!
