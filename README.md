@@ -6,6 +6,6 @@ I'm a Computer Science major passionate about using Python and machine learning 
 - 🎓 Break Through Tech AI Fellow, Summer 2025  
 - 🧠 Exploring: NLP, explainable AI, and creative tech  
 - 🧰 Skills: Python, C++, Scikit-learn, Pandas, Arduino  
-- 💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+- 💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/mialcarter)
 
 🚀 Check out my projects below!
