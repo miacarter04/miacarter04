@@ -1,5 +1,7 @@
 # Welcome, I'm Mia! 👋
 
+🎓 Junior at Long Beach State, studying Computer Science
+
 👩‍💻 About Me
 
 Ever since I was little, my family has called me "Curious George", always excitedly asking questions and looking for ways to improve the world around me. As a Computer Science major with skills in Python, machine learning, and data structures, I channel that curiosity into building meaningful, tech-driven solutions.
@@ -10,7 +12,9 @@ I'm especially passionate about applying AI to real-world challenges, particular
 
 Coding Languages: Python, C++
 
-Data Analysis/ Machine Learning: Pandas, NumPy, Seaborn, Matplotlib, Jupyter Notebooks, scikit-learn
+Data Science: Pandas, NumPy, scikit-learn
+
+Tools: Seaborn, Matplotlib, Jupyter Notebooks
 
 📊 Featured Project: Airbnb Review Rating Prediction
 - Built and evaluated a Random Forest model to predict Airbnb review scores (1-5) using listing data
