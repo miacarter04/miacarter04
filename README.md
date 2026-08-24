@@ -3,7 +3,7 @@
 ### **🎓 Senior at Long Beach State, studying Computer Science**
 
 ### **👩‍💻 About Me**  
-Ever since I was little, my family has called me “Curious George” because I was always full of questions and curious about how things worked. That curiosity eventually led me to computer science, where I found my love for AI and machine learning.
+Ever since I was little, my family has called me “Curious George” because I was always full of questions and curious about the world around me. That curiosity eventually led me to computer science, where I found my love for AI and machine learning.
 
 I’m currently a Computer Science student at California State University, Long Beach, with interests in AI/ML, computer vision, and, more recently, robotics! Through research, projects, and an AI/ML fellowship with Break Through Tech at Cornell Tech, I’ve gained hands-on experience applying machine learning to real-world problems.
 
