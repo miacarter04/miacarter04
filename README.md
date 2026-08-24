@@ -1,14 +1,18 @@
 # Welcome, I'm Mia! 👋
 
-### **🎓 Junior at Long Beach State, studying Computer Science**
+### **🎓 Senior at Long Beach State, studying Computer Science**
 
 ### **👩‍💻 About Me**  
-Ever since I was little, my family has called me "Curious George", always excitedly asking questions and looking for ways to improve the world around me. As a Computer Science major with skills in Python, machine learning, and data structures, I channel that curiosity into building meaningful, tech-driven solutions.  
+Ever since I was little, my family has called me “Curious George” because I was always full of questions and curious about how things worked. That curiosity eventually led me to computer science, where I found my love for AI and machine learning.
 
-I'm especially passionate about applying AI to real-world challenges, particularly those in the entertainment industry, where creativity meets technology. This summer, I completed an immersive AI/ML fellowship where I trained models to predict customer churn, analyze sentiment, and more. It deepened my technical skills and showed me the impact thoughtful model-building can have.
+I’m currently a Computer Science student at California State University, Long Beach, with interests in AI/ML, computer vision, and, more recently, robotics! Through research, projects, and an AI/ML fellowship with Break Through Tech at Cornell Tech, I’ve gained hands-on experience applying machine learning to real-world problems.
+
+My interest in robotics first grew through working with Arduino robots for STEM outreach, and studying robotics abroad in France only made me fall more in love with the field. Now, I’m excited to keep growing in robotics and find ways to combine it with my background in AI/ML. I’m currently learning ROS 2, getting involved in research, and working toward building robotics projects of my own. I’m especially excited by the possibilities of creating intelligent systems that can interact with the physical world and make a meaningful impact.
+
+At heart, I’m someone who loves learning, creating, and trying new things. I’m always happy to connect with others interested in AI, robotics, research, or just building cool things! :)
 
 ### **🛠️ Tech Stack**  
-**Coding Languages:** Python, C++  
+**Coding Languages:** Python  
 **Data Science:** Pandas, NumPy, scikit-learn  
 **Tools:** Seaborn, Matplotlib, Jupyter Notebooks
 
@@ -19,5 +23,3 @@ I'm especially passionate about applying AI to real-world challenges, particular
 ### **📬 How to Reach Me**  
 **Email:** mia.l.carter04@gmail.com  
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mialcarter)
-
-Check out my projects below!
