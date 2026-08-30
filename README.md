@@ -24,6 +24,6 @@ At heart, I’m someone who loves learning, creating, and trying new things. I�
 - Performed data preprocessing, feature engineering, tokenization, and data loader/pipeline development
 - Achieved 0.83 F1 score (+12% improvement!)
 
-### **📬 How to Reach Me 💌**  
+### **How to Reach Me 💌**  
 **Email:** mia.l.carter04@gmail.com  
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mialcarter)
