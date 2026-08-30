@@ -22,7 +22,7 @@ At heart, I’m someone who loves learning, creating, and trying new things. I�
 **Dataset Bias Detection Tool - Meta AI Studio Fellowship**
 - Fine-tuned BERT model to detect and analyze demographic biases across ~28k RedditBias samples 
 - Performed data preprocessing, feature engineering, tokenization, and data loader/pipeline development
-- Achieved 0.83 F1 score (+12% improvement!)
+- Achieved 0.83 F1 score (+12% improvement from baseline!)
 
 ### **How to Reach Me 💌**  
 **Email:** mia.l.carter04@gmail.com  
