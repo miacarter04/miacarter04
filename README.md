@@ -1,8 +1,10 @@
-# Welcome, I'm Mia! 👋
+<div align="center">
 
-### **🎓 Senior at Long Beach State, studying Computer Science**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Hello%2C+welcome+to+my+GitHub!+%F0%9F%8C%B8;I'm+Mia+Carter+%E2%9C%A8;Thanks+for+stopping+by!+%F0%9F%92%96)](https://git.io/typing-svg)
 
-### **👩‍💻 About Me**  
+</div>
+
+### **About Me 🧁**  
 Ever since I was little, my family has called me “Curious George” because I was always full of questions and curious about the world around me. That curiosity eventually led me to computer science, where I found my love for AI and machine learning.
 
 I’m currently a Computer Science student at California State University, Long Beach, with interests in AI/ML, computer vision, and, more recently, robotics! Through research, projects, and an AI/ML fellowship with Break Through Tech at Cornell Tech, I’ve gained hands-on experience applying machine learning to real-world problems.
@@ -11,15 +13,15 @@ My interest in robotics first grew through working with Arduino robots for STEM 
 
 At heart, I’m someone who loves learning, creating, and trying new things. I’m always happy to connect with others interested in AI, robotics, research, or just building cool things! :)
 
-### **🛠️ Tech Stack**  
-**Coding Languages:** Python  
+### **Tech Stack ☁️**  
+**Coding Languages:** Python, C++  
 **Data Science:** Pandas, NumPy, scikit-learn  
 **Tools:** Seaborn, Matplotlib, Jupyter Notebooks
 
-### **📊 Featured Project: Airbnb Review Rating Prediction**  
+### **Featured Project: Airbnb Review Rating Prediction 🌟**  
 - Built and evaluated a Random Forest model to predict Airbnb review scores (1-5) using listing data
 - Conducted feature engineering, handled missing data, and applied one-hot encoding to improve model performance
 
-### **📬 How to Reach Me**  
+### **📬 How to Reach Me 💌**  
 **Email:** mia.l.carter04@gmail.com  
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mialcarter)
