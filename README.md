@@ -18,9 +18,11 @@ At heart, I’m someone who loves learning, creating, and trying new things. I�
 **Data Science:** Pandas, NumPy, scikit-learn  
 **Tools:** Seaborn, Matplotlib, Jupyter Notebooks
 
-### **Featured Project: Airbnb Review Rating Prediction 🌟**  
-- Built and evaluated a Random Forest model to predict Airbnb review scores (1-5) using listing data
-- Conducted feature engineering, handled missing data, and applied one-hot encoding to improve model performance
+### **Featured Project 🌟**  
+**Dataset Bias Detection Tool - Meta AI Studio Fellowship**
+- Fine-tuned BERT model to detect and analyze demographic biases across ~28k RedditBias samples 
+- Performed data preprocessing, feature engineering, tokenization, and data loader/pipeline development
+- Achieved 0.83 F1 score (+12% improvement!)
 
 ### **📬 How to Reach Me 💌**  
 **Email:** mia.l.carter04@gmail.com  
