@@ -16,8 +16,9 @@ At heart, I’m someone who loves learning, creating, and trying new things. I�
 ### **Tech Stack ☁️**  
 **Coding Languages:** Python, C++  
 **Data Science:** Pandas, NumPy, scikit-learn  
-**Tools:** Seaborn, Matplotlib, Jupyter Notebooks
+**Tools:** Seaborn, Matplotlib, Jupyter Notebooks  
 **Web Dev:** HTML, CSS, JavaScript
+
 
 ### **Featured Project 🌟**  
 **Dataset Bias Detection Tool - Meta AI Studio Fellowship**
